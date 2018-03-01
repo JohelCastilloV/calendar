@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Day{
+    width: 10px;
+    height: 10px;
+    font-size: 1em;
+}
+.Yellow{
+    background-color: yellow;
+}
+
+.Green{
+    background-color: green;
+}
+.Red{
+    background-color: red;
+}
+
+.Gray{
+    background-color: gray;
+}
