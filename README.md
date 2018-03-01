@@ -1,4 +1,4 @@
-# calendar
+#Calendar
 Calendar
 
 web-based application that displays a monthly calendar
@@ -8,3 +8,5 @@ web-based application that displays a monthly calendar
 - Weekends are yellow​.
 - Weekdays are green​.
 - Invalid days are hidden and the background should be gray​.
+
+[Calendar]: <https://johelcastillov.github.io/>
